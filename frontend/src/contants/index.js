@@ -1,0 +1,6 @@
+export default {
+    SET_USERS: 'SET_USERS',
+    ADD_USER: 'ADD_USER',
+    DELETE_USER: 'DELETE_USER',
+    FETCH_USER: 'FETCH_USER',
+}
